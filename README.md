@@ -1,6 +1,6 @@
 Hello! 
 
-This is my GitHub. 😀 View my [site](iansoohoo.me). Below are selected technologies that I know.
+This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected technologies that I know.
 
 ## Languages ##
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&logoWidth=30&style=for-the-badge)](#)
