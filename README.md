@@ -3,6 +3,7 @@ Hello!
 This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected technologies that I know.
 
 ## Languages ##
+[![Typescript](https://img.shields.io/badge/-Typescript-4476C0?logo=Typescript&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&logoWidth=30&style=for-the-badge)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&logoWidth=30&style=for-the-badge)](#)
