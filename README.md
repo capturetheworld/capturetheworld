@@ -20,7 +20,6 @@ This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected 
 [![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongoDB&logoColor=white&logoWidth=30&style=for-the-badge)](#)
-[![EJS](https://img.shields.io/badge/-EJS-B8C972?&style=for-the-badge)](#)
 
 ## Design ##
 [![Figma](https://img.shields.io/badge/-Figma-C5B9FA?logo=Figma&logoWidth=30&style=for-the-badge&logoColor=black)](#)
