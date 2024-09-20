@@ -10,7 +10,7 @@ This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected 
 [![HTML 5](https://img.shields.io/badge/-HTML_5-E34F26?logo=HTML5&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![CSS 3](https://img.shields.io/badge/-CSS_3-1572B6?logo=CSS3&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 
-[![Scala](https://img.shields.io/badge/-Scala_(familiar)-DC322F?logo=Java&logoWidth=30&style=for-the-badge)](#)
+[![Scala](https://img.shields.io/badge/-Scala_(familiar)-DC322F?logo=Scala&logoWidth=30&style=for-the-badge)](#)
 [![Go](https://img.shields.io/badge/-Go_(familiar)-00ADD8?logo=Go&logoWidth=30&style=for-the-badge&logoColor=white)](#)
 
 
