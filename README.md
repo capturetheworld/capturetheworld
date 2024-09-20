@@ -28,7 +28,7 @@ This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected 
 ## Platforms ##
 [![macOS/UNIX](https://img.shields.io/badge/macOS|UNIX-000000?style=for-the-badge&logo=macos)](#)
 [![Windows](https://img.shields.io/badge/Windows-Insider-0078D6?style=for-the-badge&logo=windows)](#)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)](#)
 [![Docker](https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=black)](#)
 
 
