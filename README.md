@@ -6,7 +6,7 @@ This is my GitHub. 😀 View my [site](http://iansoohoo.me). Below are selected 
 [![Typescript](https://img.shields.io/badge/-Typescript-4476C0?logo=Typescript&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&logoWidth=30&style=for-the-badge)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&logoWidth=30&style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/-Java-007396?logo=buymeacoffee&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![HTML 5](https://img.shields.io/badge/-HTML_5-E34F26?logo=HTML5&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 [![CSS 3](https://img.shields.io/badge/-CSS_3-1572B6?logo=CSS3&logoColor=white&logoWidth=30&style=for-the-badge)](#)
 
